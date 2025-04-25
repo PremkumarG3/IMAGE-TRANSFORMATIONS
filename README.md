@@ -34,8 +34,9 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program :
 
-Developed By: Prem Kumar G
-Register Number: 212223230158
+### Developed By: Prem Kumar G
+### Register Number: 212223230158
+
 ```
 import cv2
 import numpy as np
